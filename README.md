@@ -1,4 +1,4 @@
-# funny1
+# Meals App
 
 A new Flutter project.
 
